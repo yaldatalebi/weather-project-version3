@@ -114,6 +114,7 @@ if (firstday > 6) {
 }
 sec.innerHTML = `${days[firstday]}`;
 
+
 let third = document.querySelector("#third");
 firstday = firstday + 1;
 if (firstday > 6) {
